@@ -1,5 +1,5 @@
 # React-two
-Video Stremming Application UI using React and Vite 
+Video Streaming Application UI using React and Vite 
 
 Technologies used: Reactjs, Chakra UI 
 
